@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(90, 88, 88);
+    margin: 0;
+    margin-bottom: 15px;
+ }
+.main{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex; 
+    border-bottom: 0.992px solid rgb(152, 85, 34);
+    padding: 15px;
+} 
+.back{
+    background-color: #303136; 
+}
+.h3{
+    font-size: 21.33px;
+    width: 141px;
+    height: 27px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #d2d3d7;
+}
+img{  
+    padding: 5px 8px; 
+}
+.header
+{
+    width: 50%;  
+    align-items: center; 
+    /* padding: 30px 15px; */
+    background-color: rgb(255, 255, 255); 
+    font-family: Google Sans,Segoe UI,system-ui,-apple-system,sans-serif; 
+    
+}
+nav a{
+    background-color: rgb(255, 255, 255); 
+    text-decoration: none;
+    padding: 8px 10px;
+    display: inline-block;
+    color: #000000;
+    font-size: 21px;
+}
+nav a:hover{
+    background-color: rgb(224, 219, 219);
+}
+.srch{
+    margin-top: 10px;
+    margin-left: 100px;
+    padding: 0;
+    box-sizing: border-box;
+    width: 20%; ;
+}
+.set{
+    background-color: rgb(107, 102, 102) ;
+    color: rgb(255, 255, 255); 
+    padding: 8px 0;
+} 
+.card{ 
+    /* width: 40%;  */
+    margin-top: 70px;
+    margin-left: 150px;
+    background: #303136;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white; 
+    width: 498px;
+    height: 702px;
+ }
+ .p{
+    margin-top: 21.340px;
+    width: 498px;
+    height: 72px;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .img{ 
+     width: 250px;
+     height: 300px; 
+ } 
+ .content{
+    padding: 10px;
+    color: white;
+ } 
+ h3:hover{
+    text-decoration: none;
+ }  
+ h6:hover{
+    text-decoration: none;
+ }
+.flex{
+   display: flex;
+   flex: 1; 
+}  
+.col{
+   width: 40%;
+   height: 20%;
+ /* to give separtly width to each card in each div */
+}
+.btn{
+    padding: 10px;  font-size: medium;
+    color: white; 
+    background: rgb(90, 88, 88);
+    border: rgb(107, 102, 102); 
+    width: 174px;
+    height: 77px;
+    position: absolute;
+ }
+ .btn:hover{
+    text-decoration: none; 
+    background-color: rgb(28, 26, 26);
+ } 
+ .card2{
+    width: 830px;
+    height: 820px;
+ }
