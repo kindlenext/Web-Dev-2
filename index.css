@@ -11,7 +11,7 @@ body{
     padding: 15px;
 } 
 .back{
-    background-color: #303136; 
+    background-color: #303136;  
 }
 .h3{
     font-size: 21.33px;
@@ -55,60 +55,97 @@ nav a:hover{
     color: rgb(255, 255, 255); 
     padding: 8px 0;
 } 
+ 
 .card{ 
-    /* width: 40%;  */
-    margin-top: 70px;
-    margin-left: 150px;
-    background: #303136;   
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: white; 
-    width: 498px;
-    height: 702px;
- }
- .p{
-    margin-top: 21.340px;
-    width: 498px;
-    height: 72px;
-    font-size: 21px;
-    font-family: 'Times New Roman', Times, serif;
- }
- .img{ 
-     width: 250px;
-     height: 300px; 
+    width: 48%;  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 57.990px;
  } 
  .content{
-    padding: 10px;
+    padding: 15px;
     color: white;
  } 
- h3:hover{
-    text-decoration: none;
- }  
- h6:hover{
-    text-decoration: none;
- }
 .flex{
    display: flex;
-   flex: 1; 
+   flex: 1;
+   column-gap: 2rem;
 }  
 .col{
-   width: 40%;
+   width: 18.4%;
    height: 20%;
  /* to give separtly width to each card in each div */
 }
+h3{
+    margin: 32px 0px 0px;
+}
+.span{
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img{
+    width: 333px;
+    height: 240px;
+}
+body{
+    background-color: black;
+}
+.h1{
+    margin: 35.893px;
+    width: 562px;
+    height: 86px;
+    font-size: 35.8px;
+    color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p{
+    margin: 20.889px;
+    width: 562.9px;
+    height: 70.9px;
+    font-size: 20.8px;
+    color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img2{
+    margin: 57.99px 0px 0px;
+}
 .btn{
-    padding: 10px;  font-size: medium;
-    color: white; 
-    background: rgb(90, 88, 88);
-    border: rgb(107, 102, 102); 
-    width: 174px;
-    height: 77px;
-    position: absolute;
- }
- .btn:hover{
-    text-decoration: none; 
-    background-color: rgb(28, 26, 26);
+    width:174px;
+    height:77px;
+    position: -1px;
+    background-color: rgb(8, 10, 48);
+    color: white;  
+    border: rgb(8, 10, 48);
+}
+.btn:hover{
+    background-color: grey;
+    border: grey;
+}
+ 
+.card2{ 
+    width: 48%;  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 57.990px;
+    position: 0px;
+    background-image: url(event.jpg);
  } 
- .card2{
-    width: 830px;
-    height: 820px;
+ .span2{
+   width: 48px;
+   height: 33.9px;
+   font: 20px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: #ffffff;
+ } 
+ .h33{
+   margin: 32.330px 0px 0px;
+   width: 230px;
+   height: 65px;
+   font-size: 23px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-decoration-thickness: auto;
+ }
+ .mt{
+    margin: 20px;
  }
