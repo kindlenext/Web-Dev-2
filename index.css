@@ -55,8 +55,43 @@ h1{
     display: flex;
     width: 100%;
 }
+.div1{
+  width: 100%;
+    padding: 73px;
+}
+.div
+{
+ 
+   width:  717px;
+    height: 165px;
+    padding: 73px 73px 0px 0px;
+}
 .h{
-    font-size: large;
+    font-size: 29px; 
+    text-align: center; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 567px;
+    height: 35px; 
+    margin: 0px 75px 0px 75px;
+}
+.body{
+    background-color: gainsboro;
+    border: 20px;
+}
+.paragrph{
+    text-align: justify;
+    display: flex;
+    width: 634px;
+    height: 57px;
+    color: grey;
+    margin: 16px 41px 0px;
+}
+.anchr{
     text-align: center;
+    font-size: large;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: grey;
 }
