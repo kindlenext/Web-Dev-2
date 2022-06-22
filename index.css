@@ -1,0 +1,62 @@
+.body{
+    background-color: white;
+    margin: 20px;
+    font-size: large;
+    padding: 73px;
+    /* align-items: center; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.marg{
+    margin: 50px 0px 0px;
+    width: 50%;
+    line-gap-override: 2rem;
+    margin: 30px 40px;
+}
+.img{
+    width: 456px;
+    height: 375px;
+}
+p{
+    font-size: 17px;
+    width: 453px;
+    height: 57px;
+    margin: 10px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+h1{
+    font-size: 29.8px;
+    width: 453px;
+    height: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.button{
+    width: 245px;
+    height: 62px;
+    margin: 5px;
+    background-color: blue;
+    color: white;
+    border: 10px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn{
+    width: 140px;
+    height: 62px;
+    background-color: beige;
+    color: blue;
+    border: 10px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.flex{
+    display: flex;
+    width: 100%;
+}
+.h{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
