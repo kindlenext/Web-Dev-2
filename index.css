@@ -3,8 +3,7 @@ body{
     margin: 0;
     margin-bottom: 15px;
  }
-.main{
-    width: 100%;
+.main{ 
     background-color: rgb(255, 255, 255);
     display: flex; 
     border-bottom: 0.992px solid rgb(152, 85, 34);
@@ -124,12 +123,13 @@ body{
 }
  
 .card2{ 
-    width: 48%;  
+    width: 51%;  
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     margin: 57.990px;
     position: 0px;
-    background-image: url(event.jpg);
+    background-image: url("event.jpg");
+    background-size: 500px 300px;
  } 
  .span2{
    width: 48px;
